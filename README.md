@@ -1,6 +1,6 @@
 # TikTok Insights Scraper
 
-![Logo of the Project](https://github.com/JiGro/TikTok_Viral_Identifier.git)
+![Logo of the Project](https://cdn.pixabay.com/photo/2016/01/12/10/49/like-1135176_1280.jpg)
 
 This script is used to scrape TikTok insights data from multiple user profiles and looks for viral video ideas.  It saves the results in an Excel file. The code utilizes the BeautifulSoup and Selenium libraries to extract the required information from the TikTok website.
 
